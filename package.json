@@ -4,8 +4,7 @@
   "version": "0.0.4",
   "description": "Demo app for web container demonstrations",
   "main": "app.js",
-  "author": "Nigel Poulton <nigelpoulton@hotmail.com> (https://nigelpoulton.com)",
-  "license": "May contain vulnerabilities!",
+  "author": "sameer",
   "dependencies": {
     "express": "4.17.1",
     "pug": "3.0.2",
